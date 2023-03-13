@@ -71,7 +71,7 @@ var init = function (window) {
     
 
             
-        }
+        
     
         /* 
         This Function should check the position of a circle that is passed to the 
@@ -121,7 +121,8 @@ var init = function (window) {
         
         app.addUpdateable(window.opspark.game);
     }
-;
+
+};
 
 // DON'T REMOVE THIS CODE //////////////////////////////////////////////////////
 if((typeof process !== 'undefined') &&
